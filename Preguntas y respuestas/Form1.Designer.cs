@@ -49,22 +49,24 @@ namespace Preguntas_y_respuestas
             // 
             // btnIniciar
             // 
+            this.btnIniciar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(192)))), ((int)(((byte)(255)))));
             this.btnIniciar.Location = new System.Drawing.Point(99, 221);
             this.btnIniciar.Name = "btnIniciar";
             this.btnIniciar.Size = new System.Drawing.Size(75, 23);
             this.btnIniciar.TabIndex = 1;
             this.btnIniciar.Text = "INICIAR";
-            this.btnIniciar.UseVisualStyleBackColor = true;
+            this.btnIniciar.UseVisualStyleBackColor = false;
             this.btnIniciar.Click += new System.EventHandler(this.btnIniciar_Click);
             // 
             // BtnSalir
             // 
+            this.BtnSalir.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
             this.BtnSalir.Location = new System.Drawing.Point(255, 221);
             this.BtnSalir.Name = "BtnSalir";
             this.BtnSalir.Size = new System.Drawing.Size(75, 23);
             this.BtnSalir.TabIndex = 2;
             this.BtnSalir.Text = "SALIR";
-            this.BtnSalir.UseVisualStyleBackColor = true;
+            this.BtnSalir.UseVisualStyleBackColor = false;
             this.BtnSalir.Click += new System.EventHandler(this.BtnSalir_Click);
             // 
             // label2

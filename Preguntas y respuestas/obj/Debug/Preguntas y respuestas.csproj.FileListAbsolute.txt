@@ -1,0 +1,44 @@
+C:\Users\Arnoldo\Documents\Estudio\Proyecto de programación 1\Preguntas y respuestas\Preguntas y respuestas\bin\Debug\Preguntas y respuestas.exe.config
+C:\Users\Arnoldo\Documents\Estudio\Proyecto de programación 1\Preguntas y respuestas\Preguntas y respuestas\bin\Debug\Preguntas y respuestas.exe
+C:\Users\Arnoldo\Documents\Estudio\Proyecto de programación 1\Preguntas y respuestas\Preguntas y respuestas\bin\Debug\Preguntas y respuestas.pdb
+C:\Users\Arnoldo\Documents\Estudio\Proyecto de programación 1\Preguntas y respuestas\Preguntas y respuestas\obj\Debug\Preguntas y respuestas.csproj.AssemblyReference.cache
+C:\Users\Arnoldo\Documents\Estudio\Proyecto de programación 1\Preguntas y respuestas\Preguntas y respuestas\obj\Debug\Preguntas_y_respuestas.Form1.resources
+C:\Users\Arnoldo\Documents\Estudio\Proyecto de programación 1\Preguntas y respuestas\Preguntas y respuestas\obj\Debug\Preguntas_y_respuestas.Properties.Resources.resources
+C:\Users\Arnoldo\Documents\Estudio\Proyecto de programación 1\Preguntas y respuestas\Preguntas y respuestas\obj\Debug\Preguntas y respuestas.csproj.GenerateResource.cache
+C:\Users\Arnoldo\Documents\Estudio\Proyecto de programación 1\Preguntas y respuestas\Preguntas y respuestas\obj\Debug\Preguntas y respuestas.csproj.CoreCompileInputs.cache
+C:\Users\Arnoldo\Documents\Estudio\Proyecto de programación 1\Preguntas y respuestas\Preguntas y respuestas\obj\Debug\Preguntas y respuestas.exe
+C:\Users\Arnoldo\Documents\Estudio\Proyecto de programación 1\Preguntas y respuestas\Preguntas y respuestas\obj\Debug\Preguntas y respuestas.pdb
+C:\Users\Arnoldo\Documents\Estudio\Proyecto de programación 1\Preguntas y respuestas\Preguntas y respuestas\obj\Debug\Preguntas_y_respuestas.Properties.FORM.resources
+C:\Users\Arnoldo\Documents\Estudio\Proyecto de programación 1\Preguntas y respuestas\Preguntas y respuestas\obj\Debug\Preguntas_y_respuestas.Pregunta1.resources
+C:\Users\Arnoldo\Documents\Estudio\Proyecto de programación 1\Preguntas y respuestas\Preguntas y respuestas\obj\Debug\Preguntas_y_respuestas.Pregunta2.resources
+C:\Users\Arnoldo\Documents\Estudio\Proyecto de programación 1\Preguntas y respuestas\Preguntas y respuestas\obj\Debug\Preguntas_y_respuestas.Final.resources
+C:\Users\Arnoldo\Documents\Estudio\Proyecto de programación 1\Preguntas y respuestas\Preguntas y respuestas\obj\Debug\Preguntas_y_respuestas.Pregunta10.resources
+C:\Users\Arnoldo\Documents\Estudio\Proyecto de programación 1\Preguntas y respuestas\Preguntas y respuestas\obj\Debug\Preguntas_y_respuestas.Pregunta3.resources
+C:\Users\Arnoldo\Documents\Estudio\Proyecto de programación 1\Preguntas y respuestas\Preguntas y respuestas\obj\Debug\Preguntas_y_respuestas.Pregunta4.resources
+C:\Users\Arnoldo\Documents\Estudio\Proyecto de programación 1\Preguntas y respuestas\Preguntas y respuestas\obj\Debug\Preguntas_y_respuestas.Pregunta5.resources
+C:\Users\Arnoldo\Documents\Estudio\Proyecto de programación 1\Preguntas y respuestas\Preguntas y respuestas\obj\Debug\Preguntas_y_respuestas.Pregunta6.resources
+C:\Users\Arnoldo\Documents\Estudio\Proyecto de programación 1\Preguntas y respuestas\Preguntas y respuestas\obj\Debug\Preguntas_y_respuestas.Pregunta7.resources
+C:\Users\Arnoldo\Documents\Estudio\Proyecto de programación 1\Preguntas y respuestas\Preguntas y respuestas\obj\Debug\Preguntas_y_respuestas.Pregunta8.resources
+C:\Users\Arnoldo\Documents\Estudio\Proyecto de programación 1\Preguntas y respuestas\Preguntas y respuestas\obj\Debug\Preguntas_y_respuestas.Pregunta9.resources
+C:\Users\Naidelyn\Downloads\Preguntas y respuestas n3\Preguntas y respuestas\Preguntas y respuestas\bin\Debug\Preguntas y respuestas.exe.config
+C:\Users\Naidelyn\Downloads\Preguntas y respuestas n3\Preguntas y respuestas\Preguntas y respuestas\bin\Debug\Preguntas y respuestas.exe
+C:\Users\Naidelyn\Downloads\Preguntas y respuestas n3\Preguntas y respuestas\Preguntas y respuestas\bin\Debug\Preguntas y respuestas.pdb
+C:\Users\Naidelyn\Downloads\Preguntas y respuestas n3\Preguntas y respuestas\Preguntas y respuestas\obj\Debug\Preguntas y respuestas.csproj.AssemblyReference.cache
+C:\Users\Naidelyn\Downloads\Preguntas y respuestas n3\Preguntas y respuestas\Preguntas y respuestas\obj\Debug\Preguntas_y_respuestas.Final.resources
+C:\Users\Naidelyn\Downloads\Preguntas y respuestas n3\Preguntas y respuestas\Preguntas y respuestas\obj\Debug\Preguntas_y_respuestas.Form1.resources
+C:\Users\Naidelyn\Downloads\Preguntas y respuestas n3\Preguntas y respuestas\Preguntas y respuestas\obj\Debug\Preguntas_y_respuestas.Pregunta1.resources
+C:\Users\Naidelyn\Downloads\Preguntas y respuestas n3\Preguntas y respuestas\Preguntas y respuestas\obj\Debug\Preguntas_y_respuestas.Pregunta10.resources
+C:\Users\Naidelyn\Downloads\Preguntas y respuestas n3\Preguntas y respuestas\Preguntas y respuestas\obj\Debug\Preguntas_y_respuestas.Pregunta2.resources
+C:\Users\Naidelyn\Downloads\Preguntas y respuestas n3\Preguntas y respuestas\Preguntas y respuestas\obj\Debug\Preguntas_y_respuestas.Pregunta3.resources
+C:\Users\Naidelyn\Downloads\Preguntas y respuestas n3\Preguntas y respuestas\Preguntas y respuestas\obj\Debug\Preguntas_y_respuestas.Pregunta4.resources
+C:\Users\Naidelyn\Downloads\Preguntas y respuestas n3\Preguntas y respuestas\Preguntas y respuestas\obj\Debug\Preguntas_y_respuestas.Pregunta5.resources
+C:\Users\Naidelyn\Downloads\Preguntas y respuestas n3\Preguntas y respuestas\Preguntas y respuestas\obj\Debug\Preguntas_y_respuestas.Pregunta6.resources
+C:\Users\Naidelyn\Downloads\Preguntas y respuestas n3\Preguntas y respuestas\Preguntas y respuestas\obj\Debug\Preguntas_y_respuestas.Pregunta7.resources
+C:\Users\Naidelyn\Downloads\Preguntas y respuestas n3\Preguntas y respuestas\Preguntas y respuestas\obj\Debug\Preguntas_y_respuestas.Pregunta8.resources
+C:\Users\Naidelyn\Downloads\Preguntas y respuestas n3\Preguntas y respuestas\Preguntas y respuestas\obj\Debug\Preguntas_y_respuestas.Pregunta9.resources
+C:\Users\Naidelyn\Downloads\Preguntas y respuestas n3\Preguntas y respuestas\Preguntas y respuestas\obj\Debug\Preguntas_y_respuestas.Properties.FORM.resources
+C:\Users\Naidelyn\Downloads\Preguntas y respuestas n3\Preguntas y respuestas\Preguntas y respuestas\obj\Debug\Preguntas_y_respuestas.Properties.Resources.resources
+C:\Users\Naidelyn\Downloads\Preguntas y respuestas n3\Preguntas y respuestas\Preguntas y respuestas\obj\Debug\Preguntas y respuestas.csproj.GenerateResource.cache
+C:\Users\Naidelyn\Downloads\Preguntas y respuestas n3\Preguntas y respuestas\Preguntas y respuestas\obj\Debug\Preguntas y respuestas.csproj.CoreCompileInputs.cache
+C:\Users\Naidelyn\Downloads\Preguntas y respuestas n3\Preguntas y respuestas\Preguntas y respuestas\obj\Debug\Preguntas y respuestas.exe
+C:\Users\Naidelyn\Downloads\Preguntas y respuestas n3\Preguntas y respuestas\Preguntas y respuestas\obj\Debug\Preguntas y respuestas.pdb
